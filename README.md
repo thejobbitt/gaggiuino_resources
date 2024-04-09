@@ -1,1 +1,1 @@
-Wiring diagrams for the Gaggiuino Project.
+Wiring diagrams and Manuals for the Gaggiuino Project.
