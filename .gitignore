@@ -1,3 +1,5 @@
 
 *.afdesign~lock~
 *.af~lock~
+*.afdesign~lock~:com.dropbox.ignored
+*.af~lock~:com.dropbox.ignored
